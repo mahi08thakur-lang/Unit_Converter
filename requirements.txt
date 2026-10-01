@@ -1,0 +1,6 @@
+
+### 3. `requirements.txt`
+
+```text
+# No external libraries required.
+# Tkinter is included with standard Python installations on Windows.
